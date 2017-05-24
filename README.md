@@ -1,5 +1,7 @@
 # scholarly-communication-services
 
+For a complete description of this tool and other research objects components visit http://everest.expertsystemlab.com
+
 Research objects released or archived can be assigned a Digital Object Identifier (DOI) that can be used to track research objects in scholarly search services so that citation information can be extracted and added to the research object as a measure of the research object impact in scholarly communications. 
 
 The goal of these services is to harvest research object citation information from Google Scholar and Microsoft Academic, which are specialized sites that gather citation information of research works in scholarly communications. Two different rest web services have been developed, one for each scholar service. 
